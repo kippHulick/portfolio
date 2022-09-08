@@ -233,6 +233,12 @@ h6 {
   line-height: 0;
   margin-left: 5px;
 }
+.navbar a ion-icon,
+.navbar a:focus ion-icon {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
 
 .navbar a:before {
   content: "";
